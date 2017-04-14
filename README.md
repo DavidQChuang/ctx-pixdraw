@@ -1,5 +1,5 @@
 # Description
-ctx-pixdraw is a Javascript pixel text and shap drawing library.
+ctx-pixdraw is a small Javascript pixel text and shape drawing library I pulled from an HTML5 game I made.
 
 ### Features
 * Customizable scale factor
@@ -40,7 +40,7 @@ letters.push(
 );
 letterNum.push("$");
 ```
-* Now `drawText()` will detect and draw $ as text.
+* Now `drawText()` will detect and draw $ as text
 
 * I want to draw pixels on my canvas that are 20 by 20 pixels.
 ```
