@@ -18,11 +18,11 @@ ctx-pixdraw is a Javascript pixel text and shap drawing library.
 * [Examples](#examples)
 
 ### Usage
-## Variables
+#### Variables
 * var letters (string array) - This is the variable with the 'font' letters. You can change these arrays if you want to use a different 'font'.
 * var scaleFactorX (number) - This is the variable that scales up the rectangles and text in the X axis.
 * var scaleFactorY (number) - This is the variable that scales up the rectangles and text in the Y axis.
-## Functions
+#### Functions
 ### Examples
 
 ### License
