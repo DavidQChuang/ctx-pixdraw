@@ -23,6 +23,9 @@ ctx-pixdraw is a Javascript pixel text and shap drawing library.
 * var scaleFactorX (number) - This is the variable that scales up the rectangles and text in the X axis.
 * var scaleFactorY (number) - This is the variable that scales up the rectangles and text in the Y axis.
 #### Functions
+* drawText(x(num),y(num),text(string array),width(num),height(num)) - Draws text from the letters variable and scales it up on each axis by (scaleFactor(axis) * width).
+* drawRect(x(num),y(num),width(num),height(num)) - Draws a rectangle at (x * scaleFactorX), (y * scaleFactorY) with a width of (width * scaleFactorX) and a height of (height * scaleFactorY).
+
 ### Examples
 
 ### License
